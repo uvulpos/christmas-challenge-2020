@@ -5,7 +5,7 @@ source: https://adventofcode.com/
 | Day | Status | URL |
 |-----|--------|-----|
 |  01 |  02/02 | [view challenge](https://adventofcode.com/2020/day/1) |
-|  02 |  00/02 | not available |
+|  02 |  02/02 | [view challenge](https://adventofcode.com/2020/day/2) |
 |  03 |  00/02 | not available |
 |  04 |  00/02 | not available |
 |  05 |  00/02 | not available |
