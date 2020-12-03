@@ -6,7 +6,7 @@ source: https://adventofcode.com/
 |-----|--------|----------|-----|
 |  01 |  02/02 | [view solution](day01/) | [view challenge](https://adventofcode.com/2020/day/1) |
 |  02 |  02/02 | [view solution](day02/) | [view challenge](https://adventofcode.com/2020/day/2) |
-|  03 |  00/02 | [view solution](day03/) | [view challenge](https://adventofcode.com/2020/day/3) |
+|  03 |  02/02 | [view solution](day03/) | [view challenge](https://adventofcode.com/2020/day/3) |
 |  04 |  00/02 | not available | not available |
 |  05 |  00/02 | not available | not available |
 |  06 |  00/02 | not available | not available |
