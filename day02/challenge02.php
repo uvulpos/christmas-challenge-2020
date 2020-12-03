@@ -4,8 +4,8 @@
 
     @author   uVulpos - Tim Riedl <githubcontact@tim-riedl.de>
     @license  MIT - free with copyright notice
-    @date     01.12.2020
-    @url      https://adventofcode.com/2020/day/1
+    @date     02.12.2020
+    @url      https://adventofcode.com/2020/day/2
 
 *******************************************************************************/
 
