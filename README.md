@@ -8,8 +8,8 @@ source: https://adventofcode.com/
 |  02 |  02/02 | [view solution](day02/) | [view challenge](https://adventofcode.com/2020/day/2) |
 |  03 |  02/02 | [view solution](day03/) | [view challenge](https://adventofcode.com/2020/day/3) |
 |  04 |  01/02 | [view solution](day04/) | [view challenge](https://adventofcode.com/2020/day/4) |
-|  05 |  02/02 | [view solution](day05/) | [view challenge](https://adventofcode.com/2020/day/4) |
-|  06 |  00/02 | not available | not available |
+|  05 |  02/02 | [view solution](day05/) | [view challenge](https://adventofcode.com/2020/day/5) |
+|  06 |  00/02 | [view solution](day06/) | [view challenge](https://adventofcode.com/2020/day/6) |
 |  07 |  00/02 | not available | not available |
 |  08 |  00/02 | not available | not available |
 |  09 |  00/02 | not available | not available |
