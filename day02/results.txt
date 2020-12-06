@@ -1,0 +1,11 @@
+================================================================================
+1) - solved with php
+396 passwords are valid
+604 passwords are invalid
+That makes a total of 1000 passwords
+================================================================================
+2) - solved with php
+428 passwords are valid
+572 passwords are invalid
+That makes a total of 1000 passwords
+================================================================================
